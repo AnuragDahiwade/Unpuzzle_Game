@@ -43,8 +43,8 @@ Utilize undo options if you make a mistake or need to backtrack to find the opti
 ## Screenshots
 -------------
 
-### Game Board
-![Loading Board](imgs/unpuzzleimg1.png)
+### Loading Screen
+![Loading Screen](imgs/unpuzzleimg1.png)
 
 ### Title Screen
 ![Title Screen](imgs/unpuzzleimg2.png)
@@ -70,11 +70,4 @@ Utilize undo options if you make a mistake or need to backtrack to find the opti
 
 If you'd like to contribute to the game or report any issues, please feel free to submit a pull request or open an issue on this repository.
 
-## License
--------
 
-This game is licensed under the [insert license, e.g., MIT License].
-
-To show the images in the README.md file, you can add the image files to a folder named `images` in your repository, and then reference them in the README.md file using the Markdown syntax, as shown above.
-
-Let me know if you need any further modifications!
