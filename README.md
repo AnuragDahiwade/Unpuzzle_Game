@@ -5,8 +5,6 @@
 ---------------
 
 Technology : HTML5 , Phaser.js
-Rating : N/A
-Released : June 2024
 Platform : Browser (desktop, mobile, tablet)
 
 Unpuzzle game offers a unique twist on the classic Unpuzzle gameplay. Slide the pieces rather than removing them to solve intricate puzzles of varying difficulties. With its intuitive mechanics and challenging levels, Unpuzzle Slide provides an engaging experience for puzzle enthusiasts of all skill levels.
@@ -59,11 +57,6 @@ Utilize undo options if you make a mistake or need to backtrack to find the opti
 ### High Score Screen
 ![High Score Screen](imgs/unpuzzleimg6.png)
 
-## Technical Details
--------------------
-
-* Built using [insert technologies used, e.g., HTML, CSS, JavaScript]
-* Compatible with desktop and mobile devices
 
 ## Contributing
 ------------
